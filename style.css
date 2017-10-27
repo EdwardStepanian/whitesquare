@@ -34,8 +34,12 @@ body {
 #menu a {
 	color: #b2b2b2;
 }
-h1 {
+/*  
+The HTML <h1>–<h6> elements represent six levels of section headings. <h1> is the highest section level and <h6> is the lowest.
+They no nead to have width, backround can be,but ~~ . Instead of this give this styles to parent of h1
+*/
+/* h1 {
 	background: transparent url(aboutus.png);
 	color: #7e7e7e;
 	width: 1030px;
-}
+} */
